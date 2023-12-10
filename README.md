@@ -1,1 +1,1 @@
-the given above is a authentication system  usiong jwt token 
+the given above is a authentication system  using jwt token 
